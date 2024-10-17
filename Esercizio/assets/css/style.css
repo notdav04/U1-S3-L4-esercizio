@@ -1,5 +1,6 @@
 body {
   margin: 0;
+  font-family: "Times New Roman", Times, serif;
 }
 header {
   text-align: center;
@@ -31,6 +32,7 @@ main {
   height: fit-content;
   margin-inline: auto;
   margin-bottom: 30px;
+  border-radius: 10px;
 }
 
 .cartella {
