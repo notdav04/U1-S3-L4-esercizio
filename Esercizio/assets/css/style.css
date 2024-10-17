@@ -1,0 +1,53 @@
+body {
+  margin: 0;
+}
+header {
+  text-align: center;
+}
+.cella_numero {
+  height: 45px;
+  width: 45px;
+  background-color: white;
+  border: 1px solid black;
+  margin-right: 10px;
+  margin-bottom: 5px;
+  display: inline-block;
+  vertical-align: top;
+  text-align: center;
+  padding-top: auto;
+
+  box-sizing: border-box;
+}
+main {
+  width: 700px;
+  margin-inline: auto;
+}
+
+#tabellone {
+  width: fit-content;
+  background-color: whitesmoke;
+  padding-left: 50px;
+  padding-top: 20px;
+  height: fit-content;
+  margin-inline: auto;
+  margin-bottom: 30px;
+}
+
+.cartella {
+  width: 300px;
+  display: inline-block;
+  margin-right: 20px;
+  margin-bottom: 15px;
+}
+
+#numero_estratto {
+  display: inline-block;
+  margin-left: 20px;
+  background-color: antiquewhite;
+  box-sizing: border-box;
+  padding: 5px;
+}
+
+.tabellina {
+  margin-top: 20px;
+}
